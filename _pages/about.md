@@ -3,12 +3,9 @@ permalink: /
 title: Lixing Song's Homepage
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I'm currently a fourth-year Ph.D. student at [Department of Computer Science & Engineering](http://cse.nd.edu/)  at University of Notre Dame. I work at NetScale Lab under supervision of [Prof. Aaron Striegel](http://sites.nd.edu/aaron-striegel/) . Before joined Notre Dame at 2014, I got my B.S of Electrical Engineering from Wuhan University[Wuhan University](http://en.whu.edu.cn/) , China at 2011. Then I worked as Research Assistant of [Prof. Shaoen Wu](http://www.cs.bsu.edu/homepages/swu/)  at School of Computing@[University of Southern Mississippi](http://www.usm.edu/)  (2011-2013) and Department of Computer Science@[Ball State University](http://cms.bsu.edu/)  (2013-2014). I attained my M.S. degree from Ball State University at 2014.
+I'm currently a fourth-year Ph.D. student at [Department of Computer Science & Engineering at University of Notre Dame](http://cse.nd.edu/). I work at NetScale Lab under supervision of [Prof. Aaron Striegel](http://sites.nd.edu/aaron-striegel/) . Before joined Notre Dame at 2014, I got my B.S of Electrical Engineering from [Wuhan University](http://en.whu.edu.cn/) , China at 2011. Then I worked as Research Assistant of [Prof. Shaoen Wu](http://www.cs.bsu.edu/homepages/swu/)  at School of Computing@[University of Southern Mississippi](http://www.usm.edu/)  (2011-2013) and Department of Computer Science@[Ball State University](http://cms.bsu.edu/)  (2013-2014). I attained my M.S. degree from Ball State University at 2014.
 
 
 Research Interest
