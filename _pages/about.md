@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Lixing Song's Homepage
+title: Short Bio
 excerpt: "About me"
 author_profile: true
 ---
