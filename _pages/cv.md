@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pdf
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<iframe src="{{ site.url }}/files/lsong_cv.pdf" width="100%" height="100%"></iframe>
 
 Education
 ======
