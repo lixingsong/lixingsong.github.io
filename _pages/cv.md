@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="{{ site.url }}/files/lsong_cv.pdf" width="100%" height="400px%"></iframe>
+<iframe src="{{ site.url }}/files/lsong_cv.pdf" width="80%" height="1200px%"></iframe>
