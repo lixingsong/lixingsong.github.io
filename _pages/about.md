@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Lixing Song's Homepage"
+title: Lixing Song's Homepage
 excerpt: "About me"
 author_profile: true
 redirect_from: 
