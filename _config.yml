@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lixing Song"
 title_separator          : "-"
 name                     : &name "Lixing Song"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Lixing Song"
   avatar           : "profile_lsong.png"
   bio              : "Ph.D. Candidate"
   location         : 
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/lixing-song-87104939/"
   orcid            : 
   pinterest        :
   soundcloud       :
