@@ -169,9 +169,9 @@ kramdown:
 
 # Collections
 collections:
-  profile:
-    output: true
-    permalink: /:collection/:path/
+  # profile:
+  #   output: true
+  #   permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -189,16 +189,16 @@ collections:
 # Defaults
 defaults:
   # _profile
-  - scope:
-      path: ""
-      type: profile
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: profile
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # # _posts
   # - scope:
   #     path: ""
