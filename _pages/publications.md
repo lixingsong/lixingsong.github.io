@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">Google Scholar</a></u> and <u><a href="{{author.dblp}}">DBLP</a></u> .
 
 
-{% include base_path %}
+<!--{% include base_path %}-->
 <div class="bib2xhtml">
 
 <!-- Authors: textbfLixing Song and Aaron Striegel -->
