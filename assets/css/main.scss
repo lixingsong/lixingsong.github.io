@@ -10,6 +10,7 @@
  *
 */
 
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -37,3 +38,11 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.archive a {
+        color: $link-color;
+        text-decoration:none;
+            text-decoration-line: none;
+            text-decoration-style: initial;
+            text-decoration-color: initial;
+}
