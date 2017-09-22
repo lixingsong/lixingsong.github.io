@@ -153,4 +153,3 @@ In <cite>2012 IEEE Global Communications Conference, GLOBECOM 2012,
 
 </ul>
 
-</div>
