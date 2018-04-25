@@ -18,8 +18,7 @@ author_profile: true
 
 </ul>
 
-<!-- END BIBLIOGRAPHY /home/netscale/Dropbox/Apps/ShareLaTeX/lsong_cv/lsong_cv/lsong_cv -->
-</body></html>
+
 <!-- BEGIN BIBLIOGRAPHY /home/netscale/Dropbox/Apps/ShareLaTeX/lsong_cv/lsong_cv -->
 <!--
     DO NOT MODIFY THIS BIBLIOGRAPHY BY HAND!  IT IS MAINTAINED AUTOMATICALLY!
@@ -73,11 +72,7 @@ In <cite>Proceedings of the 2016 ACM International Symposium on Wearable
   pages 28&ndash;35, 2016.
 (<a href="http://dx.doi.org/10.1145/2971763.2971767">doi:10.1145/2971763.2971767</a>)</li>
 
-<!-- Authors: Aaron Striegel and textbfLixing Song -->
-<li><a name="patent:fmnc"></a>Aaron Striegel and
-  <b>Lixing Song</b>.
-Rapid end-to-end path characterization involving wireless network hops, 06
-  2016.</li>
+
 
 <!-- Authors: textbfLixing Song and Aaron Striegel -->
 <li><a name="DBLP:demo/mobicom/SongS16"></a><b>Lixing Song</b> and
@@ -89,17 +84,7 @@ In <cite>Proceedings of the 22nd Annual International Conference on Mobile
   2016</cite>, pages 499&ndash;500. 2016.
 (<a href="http://dx.doi.org/10.1145/2973750.2985619">doi:10.1145/2973750.2985619</a>)</li>
 
-<!-- Authors: textbfLixing Song and Aaron Striegel -->
-<li><a name="patent:active"></a><b>Lixing Song</b> and
-  Aaron Striegel.
-Novel technique for client-side passive detection of wifi access point load,
-  2016.</li>
 
-<!-- Authors: textbfLixing Song and Aaron Striegel -->
-<li><a name="patent:passive"></a><b>Lixing Song</b> and
-  Aaron Striegel.
-Simplified mechanism for conveying residual capacity at a wireless access
-  point, 2016.</li>
 
 <!-- Authors: textbfLixing Song and Shaoen Wu and Honggang Wang -->
 <li><a name="DBLP:journals/iotj/SongWW16"></a><b>Lixing Song</b>, Shaoen
@@ -195,4 +180,3 @@ In <cite>2012 IEEE Global Communications Conference, GLOBECOM 2012,
 (<a href="http://dx.doi.org/10.1109/GLOCOM.2012.6503777">doi:10.1109/GLOCOM.2012.6503777</a>)</li>
 
 </ul>
-
