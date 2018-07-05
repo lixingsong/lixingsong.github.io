@@ -35,7 +35,6 @@ author_profile: true
 In <cite>Proceedings of the 28th Workshop on Network and Operating Systems
   Support for Digital Audio and Video</cite>, NOSSDAV'18, Amsterdam,
   Netherlands, 2018. ACM.
-<b>to appear</b>.
 (<a href="http://dx.doi.org/10.1145/3210445.3210449">doi:10.1145/3210445.3210449</a>)</li>
 
 <!-- Authors: textbfLixing Song and Aaron Striegel -->
