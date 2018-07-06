@@ -6,7 +6,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-I will be joining [Rose-Hulman Institute of Technology](rose-hulman.edu) as an Assistant Professor in 2018 Fall. I obtained my Ph.D. in 2018 from [Department of Computer Science & Engineering at the University of Notre Dame](http://cse.nd.edu/) under the supervision of [Prof. Aaron Striegel](http://sites.nd.edu/aaron-striegel/).
+I will be joining [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu) as an Assistant Professor in 2018 Fall. I obtained my Ph.D. in 2018 from [Department of Computer Science & Engineering at the University of Notre Dame](http://cse.nd.edu/) under the supervision of [Prof. Aaron Striegel](http://sites.nd.edu/aaron-striegel/).
 
 
 Research Interest
