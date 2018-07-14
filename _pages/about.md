@@ -11,7 +11,7 @@ I will be joining [Rose-Hulman Institute of Technology](https://www.rose-hulman.
 
 Research Interest
 ------
-My research interests broadly focus on wireless networking and mobile computing, including WiFi/Cellular performance improvement, network measurement, and security applications. My research experience traverses multiple network layers, from the Software-defined radio (SDR) at the PHY layer to packet permutation at Transport layer.
+My research interests broadly focus on wireless networking and mobile computing, including WiFi/Cellular performance improvement, network measurement, and security applications. My research experience traverses multiple network layers, from the software-defined radio (SDR) at the PHY layer to packet permutation at the Transport layer.
 
 I also participate in smartphone-driven interdisciplinary research that aims at exploring network effects from a sociological perspective, e.g., [NetSense](http://netsense.nd.edu/about.html) and [NetHealth](http://http://nethealth.nd.edu/)  project. 
 
