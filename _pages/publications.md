@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my papers on <u><a href="https://scholar.google.com/citations?user=WCom1CAAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="http://dblp.uni-trier.de/pers/hd/s/Song:Lixing">DBLP</a></u> .
+  You can also find my papers on <u><a href="https://scholar.google.com/citations?user=feBkC8UAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="http://dblp.uni-trier.de/pers/hd/s/Song:Lixing">DBLP</a></u> .
 
 <!-- BEGIN BIBLIOGRAPHY /home/netscale/Dropbox/Apps/ShareLaTeX/lsong_cv/lsong_cv/lsong_cv -->
 <!--
