@@ -28,5 +28,5 @@ top:0px;
 }
 </style>
 <div id="wrap" unselectable="on">
-    <iframe id="frame" src="https://outlook.office365.com/owa/calendar/1ce903ea5d344c8ea682975d62ce0331@rose-hulman.edu/addd63b540524f63a2b6bd432db00c161257257041130900232/calendar.html"></iframe>
+    <iframe id="frame" src="https://outlook.office365.com/owa/calendar/1ce903ea5d344c8ea682975d62ce0331@rose-hulman.edu/addd63b540524f63a2b6bd432db00c161257257041130900232/calendar.html" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
