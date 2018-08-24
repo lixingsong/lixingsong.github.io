@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-I generally have open-door policy, feel free to walk in my office at *Moench F212*. 
-You find my availability in the calendar below.
+I generally have open-door policy, feel free to walk in my office at *Moench F212*. But it is preferred to set up an appointment with me via email in advance. You find my availability in the calendar below.
 
 <style unselectable="on">
 #wrap {
