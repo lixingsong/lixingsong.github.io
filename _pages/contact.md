@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+I generally have open-door policy, feel free to walk in my office at *Moench F212*. 
+You find my availability in the calendar below.
+
 <style unselectable="on">
 #wrap {
 width:1000px;
