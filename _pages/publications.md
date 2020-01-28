@@ -8,10 +8,403 @@ author_profile: true
 
   You can also find my papers on <u><a href="https://scholar.google.com/citations?user=feBkC8UAAAAJ&hl=en">Google Scholar</a></u> and <u><a href="http://dblp.uni-trier.de/pers/hd/s/Song:Lixing">DBLP</a></u> .
 
+<table>
 
-<!DOCTYPE html>
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/icc/SongS2020">1</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b>, A.&nbsp;Mohammed, and A.&nbsp;Striegel, &ldquo;A passive client side
+  control packet-based wifi traffic characterization mechanism,&rdquo; in <em>54th
+  IEEE International Conference on Communications (ICC 2020), Dublin,
+  Ireland, 7-11 June 2020</em>, pp.&nbsp;1-7, 2020.
+ To Appear.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/icc/SongS2020">bib</a>&nbsp;]
 
-<div id="page-container">
-<div id="pf1" class="pf w0 h0" data-page-no="1"><div class="pc pc1 w0 h0"><div class="t m0 x0 h1 y0 ff1 fs0 fc0 sc0 ls0 ws0">P<span class="_ _0"></span>eer-Review<span class="_ _0"></span>ed</div><div class="t m0 x1 h2 y1 ff2 fs1 fc0 sc0 ls0 ws0">1.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _2"> </span>Song</span>,<span class="_ _3"> </span>A.<span class="_ _3"> </span>Mohammed,<span class="_ _3"> </span>and<span class="_ _3"> </span>A.<span class="_ _3"> </span>Striegel.<span class="_ _3"> </span>A<span class="_ _3"> </span>P<span class="_ _0"></span>assive<span class="_ _3"> </span>Clien<span class="_ _0"></span>t<span class="_ _3"> </span>Side<span class="_ _3"> </span>Con<span class="_ _0"></span>trol<span class="_ _3"> </span>Pac<span class="_ _0"></span>k<span class="_ _0"></span>et-based<span class="_ _3"> </span>WiFi<span class="_ _3"> </span>T<span class="_ _4"></span>raﬃc</div><div class="t m0 x2 h2 y2 ff2 fs1 fc0 sc0 ls0 ws0">Characterization Mec<span class="_ _0"></span>hanism.<span class="_ _5"> </span>In: <span class="ff4">54th<span class="_ _5"> </span>IEEE<span class="_ _6"> </span>International<span class="_ _6"> </span>Confer<span class="_ _4"></span>enc<span class="_ _0"></span>e<span class="_ _6"> </span>on<span class="_ _5"> </span>Communications<span class="_ _5"> </span>(ICC<span class="_ _6"> </span>2020),<span class="_ _6"> </span>Dublin,</span></div><div class="t m0 x2 h2 y3 ff4 fs1 fc0 sc0 ls0 ws0">Ir<span class="_ _0"></span>eland,<span class="_ _7"> </span>7-11<span class="_ _7"> </span>June<span class="_ _7"> </span>2020<span class="ff2">.<span class="_ _7"> </span>T<span class="_ _4"></span>o<span class="_ _7"> </span>Appear.<span class="_ _7"> </span>2020,<span class="_ _7"> </span>pp.1–7.</span></div><div class="t m0 x1 h2 y4 ff2 fs1 fc0 sc0 ls0 ws0">2.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _7"> </span>Song<span class="_ _6"> </span></span>and<span class="_ _6"> </span>A.<span class="_ _6"> </span>Striegel.<span class="_ _6"> </span>A<span class="_ _7"> </span>Ligh<span class="_ _0"></span>t<span class="_ _0"></span>weigh<span class="_ _0"></span>t Scheme for<span class="_ _7"> </span>Rapid and<span class="_ _6"> </span>Accurate<span class="_ _6"> </span>WiFi<span class="_ _7"> </span>P<span class="_ _0"></span>ath Characterization.<span class="_ _7"> </span>In:</div><div class="t m0 x2 h2 y5 ff4 fs1 fc0 sc0 ls0 ws0">27th<span class="_ _8"> </span>International<span class="_ _8"> </span>Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e<span class="_ _8"> </span>on<span class="_ _8"> </span>Computer<span class="_ _8"> </span>Communic<span class="_ _0"></span>ation<span class="_ _8"> </span>and<span class="_ _8"> </span>Networks,<span class="_ _8"> </span>ICCCN<span class="_ _8"> </span>2018,<span class="_ _8"> </span>Hangzhou,<span class="_ _8"> </span>China,</div><div class="t m0 x2 h2 y6 ff4 fs1 fc0 sc0 ls0 ws0">July<span class="_ _8"> </span>30<span class="_ _7"> </span>-<span class="_ _8"> </span>A<span class="_ _0"></span>ugust<span class="_ _7"> </span>2,<span class="_ _8"> </span>2018<span class="ff2">.<span class="_ _7"> </span><span class="ff3">Invited</span>.<span class="_ _7"> </span>2018,<span class="_ _7"> </span>pp.1–9.<span class="_ _7"> </span><span class="ff5">doi</span>:<span class="_ _7"> </span><span class="ff6">10.<span class="_ _9"></span>1109/<span class="_ _9"></span>ICCCN.<span class="_ _9"></span>2018.<span class="_ _9"></span>8487433</span>.<span class="_ _7"> </span><span class="ff6">https:<span class="_ _9"></span>//<span class="_ _9"></span>doi.<span class="_ _9"></span>org/<span class="_ _9"></span>10.</span></span></div><div class="t m0 x2 h2 y7 ff6 fs1 fc0 sc0 ls0 ws0">1109/ICCCN.2018.8487433<span class="ff2">.</span></div><div class="t m0 x1 h2 y8 ff2 fs1 fc0 sc0 ls0 ws0">3.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _3"> </span>Song<span class="_ _a"> </span></span>and<span class="_ _a"> </span>A.<span class="_ _b"> </span>Striegel.<span class="_ _b"> </span>SEWS:<span class="_ _a"> </span>A<span class="_ _b"> </span>Channel-Aware<span class="_ _b"> </span>Stall-F<span class="_ _4"></span>ree<span class="_ _b"> </span>WiFi<span class="_ _a"> </span>Video<span class="_ _b"> </span>Streaming<span class="_ _a"> </span>Mechanism.<span class="_ _8"> </span>In:</div><div class="t m0 x2 h2 y9 ff4 fs1 fc0 sc0 ls0 ws0">Pr<span class="_ _0"></span>o<span class="_ _4"></span>c<span class="_ _0"></span>e<span class="_ _0"></span>e<span class="_ _0"></span>dings<span class="_ _8"> </span>of<span class="_ _b"> </span>the<span class="_ _b"> </span>28th<span class="_ _8"> </span>Workshop<span class="_ _b"> </span>on<span class="_ _b"> </span>Network<span class="_ _b"> </span>and<span class="_ _8"> </span>Op<span class="_ _0"></span>er<span class="_ _0"></span>ating<span class="_ _8"> </span>Systems<span class="_ _b"> </span>Supp<span class="_ _0"></span>ort<span class="_ _b"> </span>for<span class="_ _8"> </span>Digital<span class="_ _b"> </span>Audio<span class="_ _8"> </span>and<span class="_ _b"> </span>Vide<span class="_ _0"></span>o<span class="ff2">.</span></div><div class="t m0 x2 h2 ya ff2 fs1 fc0 sc0 ls0 ws0">NOSSD<span class="_ _0"></span>A<span class="_ _4"></span>V’18.<span class="_ _6"> </span>Amsterdam,<span class="_ _7"> </span>Netherlands:<span class="_ _6"> </span>ACM, 2018.<span class="_ _7"> </span><span class="ff5">isbn</span>:<span class="_ _6"> </span>978-1-4503-5772-2/18/06.<span class="_ _7"> </span><span class="ff5">doi</span>:<span class="_ _6"> </span><span class="ff6">10.1145/3210445.</span></div><div class="t m0 x2 h2 yb ff6 fs1 fc0 sc0 ls0 ws0">3210449<span class="ff2">.<span class="_ _7"> </span></span>https://doi.org/10.1145/3210445.3210449<span class="ff2">.</span></div><div class="t m0 x1 h2 yc ff2 fs1 fc0 sc0 ls0 ws0">4.<span class="_ _1"> </span>D.<span class="_ _7"> </span>Y.<span class="_ _7"> </span>Zhang,<span class="_ _6"> </span><span class="ff3">Lixing<span class="_ _8"> </span>Song</span>,<span class="_ _7"> </span>Q.<span class="_ _7"> </span>Li,<span class="_ _7"> </span>Y.<span class="_ _6"> </span>Zhang,<span class="_ _7"> </span>and<span class="_ _7"> </span>D.<span class="_ _7"> </span>W<span class="_ _4"></span>ang.<span class="_ _7"> </span>StreamGuard:<span class="_ _6"> </span>A<span class="_ _7"> </span>Bay<span class="_ _0"></span>esian<span class="_ _7"> </span>Net<span class="_ _0"></span>work<span class="_ _6"> </span>Approach<span class="_ _6"> </span>to</div><div class="t m0 x2 h2 yd ff2 fs1 fc0 sc0 ls0 ws0">Cop<span class="_ _0"></span>yright Infringement Detection Problem<span class="_ _6"> </span>in<span class="_ _6"> </span>Large-scale<span class="_ _6"> </span>Live Video<span class="_ _6"> </span>Sharing Systems.<span class="_ _6"> </span>In:<span class="_ _6"> </span><span class="ff4">IEEE<span class="_ _7"> </span>International</span></div><div class="t m0 x2 h2 ye ff4 fs1 fc0 sc0 ls0 ws0">Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e<span class="_ _b"> </span>on<span class="_ _b"> </span>Big<span class="_ _b"> </span>Data,<span class="_ _b"> </span>Big<span class="_ _b"> </span>Data<span class="_ _b"> </span>2018,<span class="_ _b"> </span>Se<span class="_ _0"></span>attle,<span class="_ _b"> </span>W<span class="_ _4"></span>A,<span class="_ _b"> </span>USA,<span class="_ _b"> </span>De<span class="_ _0"></span>c<span class="_ _4"></span>ember<span class="_ _8"> </span>10-13,<span class="_ _b"> </span>2018<span class="ff2">.<span class="_ _8"> </span>2018,<span class="_ _b"> </span>pp.901–910.<span class="_ _8"> </span><span class="ff5">doi</span>:</span></div><div class="t m0 x2 h2 yf ff6 fs1 fc0 sc0 ls0 ws0">10.1109/BigData.2018.8622306<span class="ff2">.<span class="_ _7"> </span></span>https://doi.org/10.1109/BigData.2018.8622306<span class="ff2">.</span></div><div class="t m0 x1 h2 y10 ff2 fs1 fc0 sc0 ls0 ws0">5.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _8"> </span>Song<span class="_ _8"> </span></span>and<span class="_ _7"> </span>A.<span class="_ _8"> </span>Striegel.<span class="_ _7"> </span>Leveraging<span class="_ _7"> </span>F<span class="_ _4"></span>rame<span class="_ _7"> </span>Aggregation<span class="_ _8"> </span>for<span class="_ _7"> </span>Estimating<span class="_ _8"> </span>WiFi<span class="_ _7"> </span>Av<span class="_ _0"></span>ailable<span class="_ _7"> </span>Bandwidth.<span class="_ _8"> </span>In:</div><div class="t m0 x2 h2 y11 ff4 fs1 fc0 sc0 ls0 ws0">14th<span class="_ _6"> </span>Annual<span class="_ _6"> </span>IEEE<span class="_ _7"> </span>International<span class="_ _6"> </span>Conferenc<span class="_ _4"></span>e<span class="_ _7"> </span>on<span class="_ _6"> </span>Sensing,<span class="_ _7"> </span>Communic<span class="_ _4"></span>ation,<span class="_ _7"> </span>and<span class="_ _6"> </span>Networking,<span class="_ _7"> </span>SECON<span class="_ _6"> </span>2017,<span class="_ _7"> </span>San</div><div class="t m0 x2 h2 y12 ff4 fs1 fc0 sc0 ls0 ws0">Die<span class="_ _0"></span>go,<span class="_ _7"> </span>CA,<span class="_ _7"> </span>USA,<span class="_ _8"> </span>June<span class="_ _7"> </span>12-14,<span class="_ _7"> </span>2017<span class="ff2">.<span class="_ _7"> </span>2017,<span class="_ _6"> </span>pp.1–9.<span class="_ _7"> </span><span class="ff5">doi</span>:<span class="_ _7"> </span><span class="ff6">10.1109/SAHCN.2017.7964908</span>.<span class="_ _7"> </span><span class="ff6">https://doi.org<span class="_ _9"></span>/10.</span></span></div><div class="t m0 x2 h2 y13 ff6 fs1 fc0 sc0 ls0 ws0">1109/SAHCN.2017.7964908<span class="ff2">.</span></div><div class="t m0 x1 h2 y14 ff2 fs1 fc0 sc0 ls0 ws0">6.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _8"> </span>Song<span class="_ _6"> </span></span>and<span class="_ _7"> </span>A.<span class="_ _6"> </span>Striegel.<span class="_ _7"> </span>Leveraging frame<span class="_ _7"> </span>aggregation<span class="_ _7"> </span>to<span class="_ _6"> </span>improv<span class="_ _0"></span>e<span class="_ _7"> </span>access<span class="_ _6"> </span>p<span class="_ _9"></span>oint selection.<span class="_ _7"> </span>In:<span class="_ _7"> </span><span class="ff4">2017<span class="_ _7"> </span>IEEE</span></div><div class="t m0 x2 h2 y15 ff4 fs1 fc0 sc0 ls0 ws0">Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e<span class="_ _8"> </span>on<span class="_ _8"> </span>Computer<span class="_ _8"> </span>Communic<span class="_ _4"></span>ations<span class="_ _8"> </span>Workshops,<span class="_ _8"> </span>INF<span class="_ _0"></span>OCOM<span class="_ _8"> </span>Workshops,<span class="_ _8"> </span>A<span class="_ _0"></span>tlanta,<span class="_ _8"> </span>GA,<span class="_ _7"> </span>USA,<span class="_ _8"> </span>May<span class="_ _8"> </span>1-4,</div><div class="t m0 x2 h2 y16 ff4 fs1 fc0 sc0 ls0 ws0">2017<span class="ff2">.<span class="_ _8"> </span>2017,<span class="_ _7"> </span>pp.325–330.<span class="_ _8"> </span><span class="ff5">doi</span>:<span class="_ _8"> </span><span class="ff6">10.<span class="_ _c"></span>1109<span class="_ _9"></span>/<span class="_ _9"></span>INFCOMW<span class="_ _9"></span>.<span class="_ _9"></span>2017<span class="_ _c"></span>.<span class="_ _9"></span>8116397</span>.<span class="_ _8"> </span><span class="ff6">https<span class="_ _9"></span>:<span class="_ _9"></span>/<span class="_ _9"></span>/<span class="_ _9"></span>doi<span class="_ _9"></span>.<span class="_ _c"></span>org<span class="_ _9"></span>/<span class="_ _9"></span>10<span class="_ _9"></span>.<span class="_ _c"></span>1109<span class="_ _9"></span>/<span class="_ _9"></span>INFCOMW<span class="_ _9"></span>.<span class="_ _9"></span>2017<span class="_ _c"></span>.</span></span></div><div class="t m0 x2 h2 y17 ff6 fs1 fc0 sc0 ls0 ws0">8116397<span class="ff2">.</span></div><div class="t m0 x1 h2 y18 ff2 fs1 fc0 sc0 ls0 ws0">7.<span class="_ _1"> </span>R.<span class="_ _8"> </span>Purta,<span class="_ _8"> </span>S.<span class="_ _8"> </span>Mattingly,<span class="_ _7"> </span><span class="ff3">Lixing<span class="_ _a"> </span>Song</span>,<span class="_ _8"> </span>O.<span class="_ _8"> </span>Lizardo,<span class="_ _8"> </span>D.<span class="_ _8"> </span>Hac<span class="_ _0"></span>hen,<span class="_ _8"> </span>C.<span class="_ _8"> </span>P<span class="_ _0"></span>oellabauer,<span class="_ _8"> </span>and<span class="_ _8"> </span>A.<span class="_ _8"> </span>Striegel.<span class="_ _8"> </span>Experiences</div><div class="t m0 x2 h2 y19 ff2 fs1 fc0 sc0 ls0 ws0">measuring<span class="_ _7"> </span>sleep<span class="_ _6"> </span>and<span class="_ _7"> </span>physical<span class="_ _6"> </span>activity<span class="_ _6"> </span>patterns<span class="_ _7"> </span>across<span class="_ _7"> </span>a<span class="_ _6"> </span>large<span class="_ _7"> </span>college<span class="_ _7"> </span>cohort<span class="_ _7"> </span>with<span class="_ _6"> </span>ﬁtbits.<span class="_ _7"> </span>In:<span class="_ _7"> </span><span class="ff4">Pr<span class="_ _0"></span>o<span class="_ _4"></span>c<span class="_ _0"></span>e<span class="_ _0"></span>e<span class="_ _4"></span>dings<span class="_ _8"> </span>of<span class="_ _7"> </span>the</span></div><div class="t m0 x2 h2 y1a ff4 fs1 fc0 sc0 ls0 ws0">2016<span class="_ _5"> </span>ACM<span class="_ _5"> </span>International<span class="_ _d"> </span>Symp<span class="_ _0"></span>osium<span class="_ _5"> </span>on<span class="_ _5"> </span>Wear<span class="_ _4"></span>able<span class="_ _5"> </span>Computers,<span class="_ _d"> </span>ISWC<span class="_ _d"> </span>2016,<span class="_ _5"> </span>Heidelb<span class="_ _0"></span>er<span class="_ _0"></span>g,<span class="_ _5"> </span>Germany,<span class="_ _d"> </span>Septemb<span class="_ _0"></span>er<span class="_ _5"> </span>12-</div><div class="t m0 x2 h2 y1b ff4 fs1 fc0 sc0 ls0 ws0">16,<span class="_ _7"> </span>2016<span class="ff2">.<span class="_ _7"> </span>2016,<span class="_ _7"> </span>pp.28–35.<span class="_ _6"> </span><span class="ff5">doi</span>:<span class="_ _7"> </span><span class="ff6">10.1145/2971763.2971767</span>.<span class="_ _7"> </span><span class="ff6">http://doi.acm.org/10.1145/2971763.2971767</span>.</span></div><div class="t m0 x1 h2 y1c ff2 fs1 fc0 sc0 ls0 ws0">8.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _6"> </span>Song<span class="_ _d"> </span></span>and A. Striegel. “FMNC<span class="_ _5"> </span>- Rapid and<span class="_ _5"> </span>Accurate WiFi Characterization: Demo”.<span class="_ _5"> </span>In: <span class="ff4">Pr<span class="_ _0"></span>o<span class="_ _4"></span>c<span class="_ _0"></span>e<span class="_ _0"></span>e<span class="_ _4"></span>dings<span class="_ _6"> </span>of</span></div><div class="t m0 x2 h2 y1d ff4 fs1 fc0 sc0 ls0 ws0">the<span class="_ _8"> </span>22nd<span class="_ _7"> </span>Annual<span class="_ _7"> </span>International<span class="_ _8"> </span>Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e<span class="_ _8"> </span>on<span class="_ _8"> </span>Mobile<span class="_ _7"> </span>Computing<span class="_ _8"> </span>and<span class="_ _8"> </span>Networking,<span class="_ _7"> </span>MobiCom<span class="_ _8"> </span>2016,<span class="_ _8"> </span>New<span class="_ _7"> </span>Y<span class="_ _4"></span>ork</div><div class="t m0 x2 h2 y1e ff4 fs1 fc0 sc0 ls0 ws0">City,<span class="_ _7"> </span>NY,<span class="_ _7"> </span>USA,<span class="_ _7"> </span>Octob<span class="_ _0"></span>er<span class="_ _7"> </span>3-7,<span class="_ _7"> </span>2016<span class="ff2">.<span class="_ _6"> </span>2016,<span class="_ _7"> </span>pp.499–500.<span class="_ _6"> </span><span class="ff5">doi</span>:<span class="_ _7"> </span><span class="ff6">10.1145/2973750.2985619</span>.<span class="_ _6"> </span><span class="ff6">http://doi.acm.org/</span></span></div><div class="t m0 x2 h2 y1f ff6 fs1 fc0 sc0 ls0 ws0">10.1145/2973750.2985619<span class="ff2">.</span></div><div class="t m0 x1 h2 y20 ff2 fs1 fc0 sc0 ls0 ws0">9.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _6"> </span>Song</span>, S. W<span class="_ _4"></span>u, and H. W<span class="_ _4"></span>ang. SIMPLEX: Symbol-Level Information Multiplex. <span class="ff4">IEEE<span class="_ _d"> </span>Internet<span class="_ _6"> </span>of<span class="_ _6"> </span>Things</span></div><div class="t m0 x2 h2 y21 ff4 fs1 fc0 sc0 ls0 ws0">Journal<span class="_ _b"> </span><span class="ff2">3(5)<span class="_ _7"> </span>(2016),<span class="_ _6"> </span>757–766.</span></div><div class="t m0 x3 h2 y22 ff2 fs1 fc0 sc0 ls0 ws0">10.<span class="_ _1"> </span>X.<span class="_ _8"> </span>Hu,<span class="_ _7"> </span><span class="ff3">Lixing<span class="_ _b"> </span>Song</span>,<span class="_ _8"> </span>D.<span class="_ _8"> </span>V.<span class="_ _7"> </span>Bruggen,<span class="_ _8"> </span>and<span class="_ _7"> </span>A.<span class="_ _8"> </span>Striegel.<span class="_ _8"> </span>Is<span class="_ _7"> </span>There<span class="_ _8"> </span>WiFi<span class="_ _7"> </span>Y<span class="_ _4"></span>et?:<span class="_ _8"> </span>How<span class="_ _7"> </span>Aggressive<span class="_ _7"> </span>Prob<span class="_ _9"></span>e<span class="_ _8"> </span>Requests</div><div class="t m0 x2 h2 y23 ff2 fs1 fc0 sc0 ls0 ws0">Deteriorate<span class="_ _a"> </span>Energy<span class="_ _a"> </span>and<span class="_ _3"> </span>Throughput.<span class="_ _a"> </span>In:<span class="_ _a"> </span><span class="ff4">Pr<span class="_ _0"></span>o<span class="_ _0"></span>c<span class="_ _4"></span>e<span class="_ _0"></span>e<span class="_ _0"></span>dings<span class="_ _a"> </span>of<span class="_ _3"> </span>the<span class="_ _a"> </span>2015<span class="_ _3"> </span>ACM<span class="_ _a"> </span>Internet<span class="_ _a"> </span>Measur<span class="_ _4"></span>ement<span class="_ _a"> </span>Conferenc<span class="_ _4"></span>e,</span></div><div class="t m0 x2 h2 y24 ff4 fs1 fc0 sc0 ls0 ws0">IMC<span class="_ _b"> </span>2015,<span class="_ _a"> </span>T<span class="_ _4"></span>okyo,<span class="_ _a"> </span>Jap<span class="_ _0"></span>an,<span class="_ _b"> </span>October<span class="_ _b"> </span>28-30,<span class="_ _b"> </span>2015<span class="ff2">.<span class="_ _a"> </span>2015,<span class="_ _b"> </span>pp.317–323.<span class="_ _b"> </span><span class="ff5">doi</span>:<span class="_ _b"> </span><span class="ff6">10<span class="_ _e"> </span>.<span class="_ _e"></span>1145<span class="_ _c"></span>/<span class="_ _e"> </span>2815675<span class="_ _e"></span>.<span class="_ _c"></span>2815709</span>.<span class="_ _b"> </span><span class="ff6">http<span class="_ _e"> </span>:</span></span></div><div class="t m0 x2 h2 y25 ff6 fs1 fc0 sc0 ls0 ws0">//doi.acm.org/10.1145/2815675.2815709<span class="ff2">.</span></div><div class="t m0 x3 h2 y26 ff2 fs1 fc0 sc0 ls0 ws0">11.<span class="_ _1"> </span><span class="ff3">L.<span class="_ _d"> </span>Song<span class="_ _5"> </span></span>and<span class="_ _5"> </span>S.<span class="_ _5"> </span>W<span class="_ _4"></span>u.<span class="_ _5"> </span>AAR<span class="_ _0"></span>C:<span class="_ _5"> </span>Cross-la<span class="_ _0"></span>yer<span class="_ _f"> </span>wireless<span class="_ _f"> </span>rate con<span class="_ _0"></span>trol<span class="_ _f"> </span>driven<span class="_ _f"> </span>by<span class="_ _f"> </span>ﬁne-grained<span class="_ _5"> </span>channel<span class="_ _f"> </span>assessment.<span class="_ _f"> </span>In:<span class="_ _f"> </span><span class="ff4">2015</span></div><div class="t m0 x2 h2 y27 ff4 fs1 fc0 sc0 ls0 ws0">IEEE<span class="_ _8"> </span>International<span class="_ _b"> </span>Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e<span class="_ _b"> </span>on<span class="_ _8"> </span>Communic<span class="_ _0"></span>ations,<span class="_ _8"> </span>ICC<span class="_ _b"> </span>2015,<span class="_ _8"> </span>London,<span class="_ _8"> </span>Unite<span class="_ _4"></span>d<span class="_ _b"> </span>Kingdom,<span class="_ _8"> </span>June<span class="_ _b"> </span>8-12,<span class="_ _8"> </span>2015<span class="ff2">.</span></div><div class="t m0 x2 h2 y28 ff2 fs1 fc0 sc0 ls0 ws0">2015,<span class="_ _7"> </span>pp.3311–3316.<span class="_ _6"> </span><span class="ff5">doi</span>:<span class="_ _7"> </span><span class="ff6">10.1109/ICC.2015.7248835</span>.<span class="_ _7"> </span><span class="ff6">http://dx.doi.org/10.1109/ICC.2015.7248835</span>.</div><div class="t m0 x3 h2 y29 ff2 fs1 fc0 sc0 ls0 ws0">12.<span class="_ _1"> </span>Y.<span class="_ _7"> </span>Zhu,<span class="_ _7"> </span>C.<span class="_ _7"> </span>T<span class="_ _4"></span>ang,<span class="_ _7"> </span><span class="ff3">L.<span class="_ _8"> </span>Song</span>,<span class="_ _7"> </span>S.<span class="_ _7"> </span>W<span class="_ _4"></span>u,<span class="_ _8"> </span>and<span class="_ _7"> </span>S.<span class="_ _7"> </span>Biaz.<span class="_ _7"> </span>Analytical<span class="_ _7"> </span>and<span class="_ _7"> </span>comparative<span class="_ _7"> </span>in<span class="_ _0"></span>vestigation<span class="_ _7"> </span>of<span class="_ _7"> </span>60<span class="_ _7"> </span>GHz<span class="_ _7"> </span>wireless</div><div class="t m0 x2 h2 y2a ff2 fs1 fc0 sc0 ls0 ws0">c<span class="_ _0"></span>hannels.<span class="_ _7"> </span><span class="ff4">T<span class="_ _4"></span>ele<span class="_ _0"></span>c<span class="_ _4"></span>ommunic<span class="_ _0"></span>ation<span class="_ _7"> </span>Systems<span class="_ _b"> </span><span class="ff2">60(1)<span class="_ _7"> </span>(2015),<span class="_ _6"> </span>179–186.</span></span></div><div class="t m0 x3 h2 y2b ff2 fs1 fc0 sc0 ls0 ws0">13.<span class="_ _1"> </span>Y. Zhu, <span class="ff3">L.<span class="_ _7"> </span>Song</span>, S.<span class="_ _6"> </span>W<span class="_ _4"></span>u, H.<span class="_ _6"> </span>W<span class="_ _4"></span>ang,<span class="_ _6"> </span>and C.<span class="_ _6"> </span>W<span class="_ _4"></span>ang.<span class="_ _6"> </span>Co<span class="_ _9"></span>operative Stepwise Relaying and Combining for Multihop</div><div class="t m0 x2 h2 y2c ff2 fs1 fc0 sc0 ls0 ws0">V<span class="_ _4"></span>ehicular<span class="_ _7"> </span>Wireless<span class="_ _6"> </span>Communication.<span class="_ _6"> </span><span class="ff4">IEEE<span class="_ _8"> </span>T.<span class="_ _7"> </span>V<span class="_ _4"></span>ehicular<span class="_ _7"> </span>T<span class="_ _4"></span>e<span class="_ _0"></span>chnolo<span class="_ _0"></span>gy<span class="_ _8"> </span><span class="ff2">64(6)<span class="_ _7"> </span>(2015),<span class="_ _7"> </span>2663–2671.</span></span></div><div class="t m0 x3 h2 y2d ff2 fs1 fc0 sc0 ls0 ws0">14.<span class="_ _1"> </span>C.<span class="_ _7"> </span>T<span class="_ _4"></span>ang,<span class="_ _8"> </span><span class="ff3">L.<span class="_ _8"> </span>Song</span>,<span class="_ _7"> </span>J.<span class="_ _8"> </span>Balasubramani,<span class="_ _7"> </span>S.<span class="_ _8"> </span>W<span class="_ _4"></span>u,<span class="_ _7"> </span>S.<span class="_ _7"> </span>Biaz,<span class="_ _8"> </span>Q.<span class="_ _7"> </span>Y<span class="_ _4"></span>ang,<span class="_ _7"> </span>and<span class="_ _8"> </span>H.<span class="_ _7"> </span>W<span class="_ _4"></span>ang.<span class="_ _7"> </span>Comparative<span class="_ _7"> </span>Inv<span class="_ _0"></span>estigation<span class="_ _7"> </span>on</div><div class="t m0 x2 h2 y2e ff2 fs1 fc0 sc0 ls0 ws0">CSMA/CA-Based Opp<span class="_ _9"></span>ortunistic Random Access for Internet of Things. <span class="ff4">IEEE<span class="_ _6"> </span>Internet<span class="_ _7"> </span>of<span class="_ _6"> </span>Things<span class="_ _6"> </span>Journal<span class="_ _8"> </span></span>1(2)</div><div class="t m0 x2 h2 y2f ff2 fs1 fc0 sc0 ls0 ws0">(2014),<span class="_ _7"> </span>171–179.</div><div class="t m0 x3 h2 y30 ff2 fs1 fc0 sc0 ls0 ws0">15.<span class="_ _1"> </span><span class="ff3">L.<span class="_ _7"> </span>Song<span class="_ _6"> </span></span>and<span class="_ _6"> </span>S.<span class="_ _6"> </span>W<span class="_ _4"></span>u.<span class="_ _6"> </span>Cross-lay<span class="_ _0"></span>er wireless<span class="_ _6"> </span>information<span class="_ _7"> </span>securit<span class="_ _0"></span>y. In:<span class="_ _6"> </span><span class="ff4">23rd<span class="_ _6"> </span>International<span class="_ _7"> </span>Confer<span class="_ _4"></span>enc<span class="_ _0"></span>e<span class="_ _7"> </span>on<span class="_ _6"> </span>Computer</span></div><div class="t m0 x2 h2 y31 ff4 fs1 fc0 sc0 ls0 ws0">Communic<span class="_ _0"></span>ation<span class="_ _6"> </span>and<span class="_ _7"> </span>Networks,<span class="_ _6"> </span>ICCCN<span class="_ _7"> </span>2014,<span class="_ _6"> </span>Shanghai,<span class="_ _7"> </span>China,<span class="_ _6"> </span>August<span class="_ _6"> </span>4-7,<span class="_ _7"> </span>2014<span class="ff2">. 2014,<span class="_ _6"> </span>pp.1–9.<span class="_ _6"> </span><span class="ff5">doi</span>:<span class="_ _6"> </span><span class="ff6">10.1109/</span></span></div><div class="t m0 x2 h2 y32 ff6 fs1 fc0 sc0 ls0 ws0">ICCCN.2014.6911744<span class="ff2">.<span class="_ _7"> </span></span>http://dx.doi.org/10.1109/ICCCN.2014.6911744<span class="ff2">.</span></div><div class="t m0 x3 h2 y33 ff2 fs1 fc0 sc0 ls0 ws0">16.<span class="_ _1"> </span><span class="ff3">L.<span class="_ _2"> </span>Song</span>,<span class="_ _a"> </span>S.<span class="_ _3"> </span>W<span class="_ _4"></span>u,<span class="_ _3"> </span>H.<span class="_ _3"> </span>W<span class="_ _4"></span>ang,<span class="_ _3"> </span>and<span class="_ _a"> </span>Q.<span class="_ _3"> </span>Y<span class="_ _4"></span>ang.<span class="_ _3"> </span>Distributed<span class="_ _3"> </span>MapReduce<span class="_ _3"> </span>engine<span class="_ _a"> </span>with<span class="_ _3"> </span>fault<span class="_ _3"> </span>tolerance.<span class="_ _3"> </span>In:<span class="_ _3"> </span><span class="ff4">IEEE</span></div><div class="t m0 x2 h2 y34 ff4 fs1 fc0 sc0 ls0 ws0">International<span class="_ _6"> </span>Confer<span class="_ _0"></span>enc<span class="_ _0"></span>e<span class="_ _6"> </span>on<span class="_ _6"> </span>Communic<span class="_ _0"></span>ations,<span class="_ _6"> </span>ICC<span class="_ _7"> </span>2014,<span class="_ _6"> </span>Sydney,<span class="_ _6"> </span>Austr<span class="_ _0"></span>alia,<span class="_ _6"> </span>June<span class="_ _6"> </span>10-14,<span class="_ _7"> </span>2014<span class="ff2">. 2014, pp.3626–</span></div><div class="t m0 x2 h2 y35 ff2 fs1 fc0 sc0 ls0 ws0">3630.<span class="_ _7"> </span><span class="ff5">doi</span>:<span class="_ _6"> </span><span class="ff6">10.1109/ICC.2014.6883884</span>.<span class="_ _7"> </span><span class="ff6">http://dx.doi.org/10.1109/ICC.2014.6883884</span>.</div><div class="t m0 x4 h3 y36 ff7 fs2 fc0 sc0 ls0 ws0">1<span class="_ _7"> </span>/<span class="_ _8"> </span>2</div><a class="l" href="https://doi.org/10.1109/ICCCN.2018.8487433"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:344.661000px;bottom:626.200000px;width:124.800000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICCCN.2018.8487433"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:474.278000px;bottom:626.200000px;width:92.026000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICCCN.2018.8487433"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:616.486000px;width:109.260000px;height:7.967000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/3210445.3210449"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:489.995000px;bottom:579.475000px;width:76.309000px;height:9.959000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/3210445.3210449"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:568.765000px;width:33.944000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/3210445.3210449"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:161.633000px;bottom:568.765000px;width:184.577000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/BigData.2018.8622306"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:522.290000px;width:132.797000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/BigData.2018.8622306"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:260.486000px;bottom:522.290000px;width:208.113000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/SAHCN.2017.7964908"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:347.455000px;bottom:486.773000px;width:123.559000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/SAHCN.2017.7964908"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:475.675000px;bottom:486.773000px;width:90.629000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/SAHCN.2017.7964908"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:477.059000px;width:109.260000px;height:7.967000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/INFCOMW.2017.8116397"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:243.582000px;bottom:440.297000px;width:136.170000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/INFCOMW.2017.8116397"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:384.816000px;bottom:440.297000px;width:181.488000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/INFCOMW.2017.8116397"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:431.331000px;width:33.944000px;height:6.472000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/2971763.2971767"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:248.196000px;bottom:382.862000px;width:109.260000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://doi.acm.org/10.1145/2971763.2971767"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:362.096000px;bottom:382.862000px;width:198.698000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/2973750.2985619"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:362.055000px;bottom:347.346000px;width:109.260000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://doi.acm.org/10.1145/2973750.2985619"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:475.873000px;bottom:347.346000px;width:90.431000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://doi.acm.org/10.1145/2973750.2985619"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:337.632000px;width:109.260000px;height:7.966000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1145/2815675.2815709"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:420.101000px;bottom:276.312000px;width:115.087000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://doi.acm.org/10.1145/2815675.2815709"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:540.804000px;bottom:276.312000px;width:25.500000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://doi.acm.org/10.1145/2815675.2815709"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:265.353000px;width:175.162000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICC.2015.7248835"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:226.651000px;bottom:229.836000px;width:113.968000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://dx.doi.org/10.1109/ICC.2015.7248835"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:345.258000px;bottom:229.836000px;width:198.699000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICCCN.2014.6911744"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:527.654000px;bottom:120.895000px;width:38.650000px;height:8.962000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICCCN.2014.6911744"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:109.687000px;width:85.724000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://dx.doi.org/10.1109/ICCCN.2014.6911744"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:213.413000px;bottom:109.687000px;width:208.113000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="https://doi.org/10.1109/ICC.2014.6883884"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:166.751000px;bottom:74.170000px;width:113.968000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://dx.doi.org/10.1109/ICC.2014.6883884"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:285.358000px;bottom:74.170000px;width:198.699000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="#pf2" data-dest-detail='[2,"XYZ",155.408,721,null]'><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(255,0,0);position:absolute;left:344.323000px;bottom:37.029000px;width:5.974000px;height:12.948000px;background-color:rgba(255,255,255,0.000001);"></div></a></div><div class="pi" data-data='{"ctm":[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}'></div></div>
-<div id="pf2" class="pf w0 h0" data-page-no="2"><div class="pc pc2 w0 h0"><div class="t m0 x3 h2 y0 ff2 fs1 fc0 sc0 ls0 ws0">17.<span class="_ _1"> </span>Y.<span class="_ _8"> </span>Zh<span class="_ _0"></span>u,<span class="_ _8"> </span>C.<span class="_ _8"> </span>T<span class="_ _4"></span>ang,<span class="_ _8"> </span><span class="ff3">L.<span class="_ _b"> </span>Song</span>,<span class="_ _8"> </span>Q.<span class="_ _8"> </span>Y<span class="_ _4"></span>ao,<span class="_ _8"> </span>and<span class="_ _8"> </span>S.<span class="_ _8"> </span>W<span class="_ _4"></span>u.<span class="_ _7"> </span>Co<span class="_ _9"></span>op<span class="_ _9"></span>erative<span class="_ _7"> </span>Binary<span class="_ _8"> </span>Relaying<span class="_ _8"> </span>and<span class="_ _8"> </span>Com<span class="_ _0"></span>bining<span class="_ _8"> </span>for<span class="_ _8"> </span>m<span class="_ _0"></span>ulti-hop</div><div class="t m0 x2 h2 y37 ff2 fs1 fc0 sc0 ls0 ws0">wireless<span class="_ _b"> </span>communication.<span class="_ _8"> </span>In:<span class="_ _b"> </span><span class="ff4">2012<span class="_ _a"> </span>IEEE<span class="_ _a"> </span>Glob<span class="_ _0"></span>al<span class="_ _b"> </span>Communic<span class="_ _0"></span>ations<span class="_ _a"> </span>Confer<span class="_ _0"></span>enc<span class="_ _4"></span>e,<span class="_ _a"> </span>GLOBECOM<span class="_ _a"> </span>2012,<span class="_ _b"> </span>Anaheim,</span></div><div class="t m0 x2 h2 y38 ff4 fs1 fc0 sc0 ls0 ws0">CA,<span class="_ _8"> </span>USA,<span class="_ _8"> </span>De<span class="_ _0"></span>c<span class="_ _0"></span>emb<span class="_ _4"></span>er<span class="_ _8"> </span>3-7,<span class="_ _b"> </span>2012<span class="ff2">.<span class="_ _8"> </span>2012,<span class="_ _7"> </span>pp.4205–4210.<span class="_ _8"> </span><span class="ff5">doi</span>:<span class="_ _8"> </span><span class="ff6">10<span class="_ _9"></span>.<span class="_ _9"></span>1109<span class="_ _9"></span>/<span class="_ _c"></span>GLOCOM<span class="_ _9"></span>.<span class="_ _9"></span>2012<span class="_ _c"></span>.<span class="_ _9"></span>6503777</span>.<span class="_ _8"> </span><span class="ff6">http<span class="_ _9"></span>:<span class="_ _9"></span>/<span class="_ _c"></span>/<span class="_ _9"></span>dx<span class="_ _9"></span>.<span class="_ _c"></span>doi<span class="_ _9"></span>.</span></span></div><div class="t m0 x2 h2 y39 ff6 fs1 fc0 sc0 ls0 ws0">org/10.1109/GLOCOM.2012.6503777<span class="ff2">.</span></div><div class="t m0 x0 h1 y3a ff1 fs0 fc0 sc0 ls0 ws0">Thesis</div><div class="t m0 x1 h2 y3b ff2 fs1 fc0 sc0 ls0 ws0">1.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _8"> </span>Song</span>.<span class="_ _8"> </span>“F<span class="_ _4"></span>ast<span class="_ _7"> </span>Mobile<span class="_ _7"> </span>Netw<span class="_ _0"></span>ork<span class="_ _7"> </span>Characterization:<span class="_ _8"> </span>Design,<span class="_ _7"> </span>Implemen<span class="_ _0"></span>tation<span class="_ _7"> </span>and<span class="_ _8"> </span>Ev<span class="_ _4"></span>aluation”.<span class="_ _8"> </span>Ph.D.<span class="_ _7"> </span>Dis-</div><div class="t m0 x2 h2 y3c ff2 fs1 fc0 sc0 ls0 ws0">sertation.<span class="_ _7"> </span>Notre<span class="_ _6"> </span>Dame,<span class="_ _7"> </span>IN,<span class="_ _7"> </span>USA:<span class="_ _6"> </span>Universit<span class="_ _0"></span>y<span class="_ _7"> </span>of<span class="_ _7"> </span>Notre<span class="_ _6"> </span>Dame,<span class="_ _7"> </span>2018.</div><div class="t m0 x1 h2 y3d ff2 fs1 fc0 sc0 ls0 ws0">2.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _a"> </span>Song</span>.<span class="_ _8"> </span>“Adaptive<span class="_ _8"> </span>Wireless<span class="_ _8"> </span>Rate<span class="_ _8"> </span>Con<span class="_ _0"></span>trol<span class="_ _8"> </span>Driven<span class="_ _8"> </span>b<span class="_ _0"></span>y<span class="_ _8"> </span>Highly<span class="_ _8"> </span>Fine-grained<span class="_ _8"> </span>Channel<span class="_ _8"> </span>Assessment”.<span class="_ _8"> </span>M.S.</div><div class="t m0 x2 h2 y3e ff2 fs1 fc0 sc0 ls0 ws0">Thesis.<span class="_ _7"> </span>Muncie,<span class="_ _6"> </span>IN,<span class="_ _7"> </span>USA:<span class="_ _7"> </span>Ball<span class="_ _6"> </span>State<span class="_ _7"> </span>Universit<span class="_ _0"></span>y,<span class="_ _7"> </span>2014.</div><div class="t m0 x0 h1 y3f ff1 fs0 fc0 sc0 ls0 ws0">In<span class="_ _0"></span>tellectual<span class="_ _a"> </span>Prop<span class="_ _9"></span>erty</div><div class="t m0 x1 h2 y40 ff2 fs1 fc0 sc0 ls0 ws0">1.<span class="_ _1"> </span>A.<span class="_ _8"> </span>Striegel<span class="_ _8"> </span>and<span class="_ _8"> </span><span class="ff3">Lixing<span class="_ _b"> </span>Song</span>.<span class="_ _8"> </span>“Systems<span class="_ _8"> </span>and<span class="_ _8"> </span>metho<span class="_ _9"></span>ds<span class="_ _8"> </span>for<span class="_ _8"> </span>rapidly<span class="_ _8"> </span>estimating<span class="_ _8"> </span>a<span class="_ _0"></span>v<span class="_ _0"></span>ailable<span class="_ _8"> </span>bandwidth<span class="_ _8"> </span>in<span class="_ _8"> </span>a<span class="_ _8"> </span>WiFi</div><div class="t m0 x2 h2 y41 ff2 fs1 fc0 sc0 ls0 ws0">link”.<span class="_ _7"> </span>P<span class="_ _0"></span>aten<span class="_ _0"></span>t<span class="_ _7"> </span>US<span class="_ _7"> </span>P<span class="_ _0"></span>aten<span class="_ _0"></span>t<span class="_ _7"> </span>10,383,002<span class="_ _7"> </span>(US).<span class="_ _6"> </span>Aug.<span class="_ _7"> </span>2019.</div><div class="t m0 x1 h2 y42 ff2 fs1 fc0 sc0 ls0 ws0">2.<span class="_ _1"> </span>A.<span class="_ _7"> </span>Striegel<span class="_ _7"> </span>and<span class="_ _7"> </span><span class="ff3">Lixing<span class="_ _b"> </span>Song</span>.<span class="_ _7"> </span>“Rapid<span class="_ _7"> </span>End-to-End<span class="_ _8"> </span>P<span class="_ _0"></span>ath<span class="_ _7"> </span>Characterization<span class="_ _7"> </span>inv<span class="_ _0"></span>olving<span class="_ _7"> </span>Wireless<span class="_ _7"> </span>Netw<span class="_ _0"></span>ork<span class="_ _7"> </span>Hops”.</div><div class="t m0 x2 h2 y43 ff2 fs1 fc0 sc0 ls0 ws0">P<span class="_ _0"></span>atent<span class="_ _6"> </span>US<span class="_ _7"> </span>Paten<span class="_ _0"></span>t<span class="_ _6"> </span>Application<span class="_ _7"> </span>62/351,225<span class="_ _7"> </span>(US).<span class="_ _6"> </span>June<span class="_ _7"> </span>2016.</div><div class="t m0 x1 h2 y44 ff2 fs1 fc0 sc0 ls0 ws0">3.<span class="_ _1"> </span><span class="ff3">Lixing<span class="_ _6"> </span>Song<span class="_ _6"> </span></span>and A. Striegel. “Nov<span class="_ _0"></span>el T<span class="_ _4"></span>ec<span class="_ _0"></span>hnique for Client-Side P<span class="_ _0"></span>assiv<span class="_ _0"></span>e Detection of WiFi Access<span class="_ _6"> </span>Poin<span class="_ _0"></span>t Load”.</div><div class="t m0 x2 h2 y45 ff2 fs1 fc0 sc0 ls0 ws0">Cop<span class="_ _0"></span>yright<span class="_ _6"> </span>2016<span class="_ _7"> </span>Notre<span class="_ _7"> </span>Dame<span class="_ _6"> </span>(US).<span class="_ _7"> </span>2016.</div><div class="t m0 x4 h3 y36 ff7 fs2 fc0 sc0 ls0 ws0">2<span class="_ _7"> </span>/<span class="_ _8"> </span>2</div><a class="l" href="https://doi.org/10.1109/GLOCOM.2012.6503777"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:359.368000px;bottom:684.631000px;width:131.745000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://dx.doi.org/10.1109/GLOCOM.2012.6503777"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:496.211000px;bottom:684.631000px;width:70.093000px;height:9.211000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="http://dx.doi.org/10.1109/GLOCOM.2012.6503777"><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(0,255,255);position:absolute;left:123.050000px;bottom:673.672000px;width:146.919000px;height:9.212000px;background-color:rgba(255,255,255,0.000001);"></div></a><a class="l" href="#pf2" data-dest-detail='[2,"XYZ",155.408,721,null]'><div class="d m1" style="border-width:1.000000px;border-style:solid;border-color:rgb(255,0,0);position:absolute;left:344.323000px;bottom:37.029000px;width:5.974000px;height:12.948000px;background-color:rgba(255,255,255,0.000001);"></div></a></div><div class="pi" data-data='{"ctm":[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}'></div></div>
-</div>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="mobicom">2</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b>, A.&nbsp;Striegel, and E.&nbsp;Halepovic, &ldquo;Cellular ultra-light
+  probe-based available bandwidth estimation.&rdquo; 4-th IFIP the Network Traffic
+  Measurement and Analysis Conference (TMA Conference 2020), 2020.
+[&nbsp;<a href="pub_bib.html#mobicom">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="jwang_poster">3</a>]
+</td>
+<td class="bibtexitem">
+J.&nbsp;Wang and <b>Lixing Song</b>, &ldquo;Reinforcement learning for real-world
+  autonomous driving,&rdquo; r-surf symposium, Rose-Hulman Institute of Technology,
+  2019.
+ Poster.
+[&nbsp;<a href="pub_bib.html#jwang_poster">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="luos_poster">4</a>]
+</td>
+<td class="bibtexitem">
+S.&nbsp;Luo and <b>Lixing Song</b>, &ldquo;Gan-rl: A transfer learning solution for
+  applying reinforcement learning for autonomous driving in real world,&rdquo;
+  r-surf symposium, Rose-Hulman Institute of Technology, 2019.
+ Poster.
+[&nbsp;<a href="pub_bib.html#luos_poster">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="striegel2019systems">5</a>]
+</td>
+<td class="bibtexitem">
+A.&nbsp;Striegel and <b>Lixing Song</b>, &ldquo;Systems and methods for rapidly
+  estimating available bandwidth in a wifi link,&rdquo; 08 2019.
+[&nbsp;<a href="pub_bib.html#striegel2019systems">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="bigdata18">6</a>]
+</td>
+<td class="bibtexitem">
+D.&nbsp;Y. Zhang, <b>Lixing Song</b>, Q.&nbsp;Li, Y.&nbsp;Zhang, and D.&nbsp;Wang, &ldquo;Streamguard:
+  A bayesian network approach to copyright infringement detection problem in
+  large-scale live video sharing systems,&rdquo; in <em>IEEE International
+  Conference on Big Data, Big Data 2018, Seattle, WA, USA, December 10-13,
+  2018</em>, pp.&nbsp;901-910, 2018.
+[&nbsp;<a href="pub_bib.html#bigdata18">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/BigData.2018.8622306">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1109/BigData.2018.8622306">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/icccn/SongS18">7</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;A lightweight scheme for rapid and
+  accurate wifi path characterization,&rdquo; in <em>27th International Conference
+  on Computer Communication and Networks, ICCCN 2018, Hangzhou, China, July
+  30 - August 2, 2018</em>, pp.&nbsp;1-9, 2018.
+ <b>Invited</b>.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/icccn/SongS18">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICCCN.2018.8487433">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1109/ICCCN.2018.8487433">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="nossdav18">8</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;Sews: A channel-aware stall-free wifi
+  video streaming mechanism,&rdquo; in <em>Proceedings of the 28th Workshop on
+  Network and Operating Systems Support for Digital Audio and Video</em>,
+  NOSSDAV'18, (Amsterdam, Netherlands), ACM, 2018.
+[&nbsp;<a href="pub_bib.html#nossdav18">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/3210445.3210449">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1145/3210445.3210449">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="song_phd">9</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b>, <em>Fast Mobile Network Characterization: Design,
+  Implementation and Evaluation</em>.
+ Ph.d. dissertation, University of Notre Dame, Notre Dame, IN, USA,
+  2018.
+[&nbsp;<a href="pub_bib.html#song_phd">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/infocom/SongS17">10</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;Leveraging frame aggregation to improve
+  access point selection,&rdquo; in <em>2017 IEEE Conference on Computer
+  Communications Workshops, INFOCOM Workshops, Atlanta, GA, USA, May 1-4,
+  2017</em>, pp.&nbsp;325-330, 2017.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/infocom/SongS17">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/INFCOMW.2017.8116397">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1109/INFCOMW.2017.8116397">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/secon/SongS17">11</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;Leveraging frame aggregation for
+  estimating wifi available bandwidth,&rdquo; in <em>14th Annual IEEE
+  International Conference on Sensing, Communication, and Networking, SECON
+  2017, San Diego, CA, USA, June 12-14, 2017</em>, pp.&nbsp;1-9, 2017.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/secon/SongS17">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/SAHCN.2017.7964908">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1109/SAHCN.2017.7964908">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:demo/mobicom/SongS16">12</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;FMNC - rapid and accurate wifi
+  characterization: Demo,&rdquo; in <em>Proceedings of the 22nd Annual
+  International Conference on Mobile Computing and Networking, MobiCom 2016,
+  New York City, NY, USA, October 3-7, 2016</em>, pp.&nbsp;499-500, 2016.
+[&nbsp;<a href="pub_bib.html#DBLP:demo/mobicom/SongS16">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2973750.2985619">DOI</a>&nbsp;| 
+<a href="http://doi.acm.org/10.1145/2973750.2985619">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/iswc/PurtaMSLHPS16">13</a>]
+</td>
+<td class="bibtexitem">
+R.&nbsp;Purta, S.&nbsp;Mattingly, <b>Lixing Song</b>, O.&nbsp;Lizardo, D.&nbsp;Hachen,
+  C.&nbsp;Poellabauer, and A.&nbsp;Striegel, &ldquo;Experiences measuring sleep and physical
+  activity patterns across a large college cohort with fitbits,&rdquo; in <em>
+  Proceedings of the 2016 ACM International Symposium on Wearable Computers,
+  ISWC 2016, Heidelberg, Germany, September 12-16, 2016</em>, pp.&nbsp;28-35, 2016.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/iswc/PurtaMSLHPS16">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2971763.2971767">DOI</a>&nbsp;| 
+<a href="http://doi.acm.org/10.1145/2971763.2971767">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:journals/iotj/SongWW16">14</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b>, S.&nbsp;Wu, and H.&nbsp;Wang, &ldquo;SIMPLEX: symbol-level information
+  multiplex,&rdquo; <em>IEEE Internet of Things Journal</em>, vol.&nbsp;3, no.&nbsp;5,
+  pp.&nbsp;757-766, 2016.
+[&nbsp;<a href="pub_bib.html#DBLP:journals/iotj/SongWW16">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/JIOT.2016.2555762">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/JIOT.2016.2555762">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="patent:fmnc">15</a>]
+</td>
+<td class="bibtexitem">
+A.&nbsp;Striegel and <b>Lixing Song</b>, &ldquo;Rapid end-to-end path characterization
+  involving wireless network hops,&rdquo; 06 2016.
+[&nbsp;<a href="pub_bib.html#patent:fmnc">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="patent:active">16</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b> and A.&nbsp;Striegel, &ldquo;Novel technique for client-side passive
+  detection of wifi access point load,&rdquo; 2016.
+[&nbsp;<a href="pub_bib.html#patent:active">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/imc/HuSBS15">17</a>]
+</td>
+<td class="bibtexitem">
+X.&nbsp;Hu, <b>Lixing Song</b>, D.&nbsp;V. Bruggen, and A.&nbsp;Striegel, &ldquo;Is there wifi
+  yet?: How aggressive probe requests deteriorate energy and throughput,&rdquo; in
+  <em>Proceedings of the 2015 ACM Internet Measurement Conference, IMC
+  2015, Tokyo, Japan, October 28-30, 2015</em>, pp.&nbsp;317-323, 2015.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/imc/HuSBS15">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1145/2815675.2815709">DOI</a>&nbsp;| 
+<a href="http://doi.acm.org/10.1145/2815675.2815709">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:journals/telsys/Zhu0SWB15">18</a>]
+</td>
+<td class="bibtexitem">
+Y.&nbsp;Zhu, C.&nbsp;Tang, <b>L. Song</b>, S.&nbsp;Wu, and S.&nbsp;Biaz, &ldquo;Analytical and
+  comparative investigation of 60 ghz wireless channels,&rdquo; <em>
+  Telecommunication Systems</em>, vol.&nbsp;60, no.&nbsp;1, pp.&nbsp;179-186, 2015.
+[&nbsp;<a href="pub_bib.html#DBLP:journals/telsys/Zhu0SWB15">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/s11235-014-9932-1">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1007/s11235-014-9932-1">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:journals/tvt/ZhuSWWW15">19</a>]
+</td>
+<td class="bibtexitem">
+Y.&nbsp;Zhu, <b>L. Song</b>, S.&nbsp;Wu, H.&nbsp;Wang, and C.&nbsp;Wang, &ldquo;Cooperative stepwise
+  relaying and combining for multihop vehicular wireless communication,&rdquo; <em>
+  IEEE T. Vehicular Technology</em>, vol.&nbsp;64, no.&nbsp;6, pp.&nbsp;2663-2671, 2015.
+[&nbsp;<a href="pub_bib.html#DBLP:journals/tvt/ZhuSWWW15">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/TVT.2014.2346031">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/TVT.2014.2346031">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/icc/SongW15">20</a>]
+</td>
+<td class="bibtexitem">
+<b>L. Song</b> and S.&nbsp;Wu, &ldquo;AARC: cross-layer wireless rate control driven
+  by fine-grained channel assessment,&rdquo; in <em>2015 IEEE International
+  Conference on Communications, ICC 2015, London, United Kingdom, June 8-12,
+  2015</em>, pp.&nbsp;3311-3316, 2015.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/icc/SongW15">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICC.2015.7248835">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICC.2015.7248835">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:journals/iotj/0001SBWBYW14">21</a>]
+</td>
+<td class="bibtexitem">
+C.&nbsp;Tang, <b>L. Song</b>, J.&nbsp;Balasubramani, S.&nbsp;Wu, S.&nbsp;Biaz, Q.&nbsp;Yang, and
+  H.&nbsp;Wang, &ldquo;Comparative investigation on csma/ca-based opportunistic random
+  access for internet of things,&rdquo; <em>IEEE Internet of Things Journal</em>,
+  vol.&nbsp;1, no.&nbsp;2, pp.&nbsp;171-179, 2014.
+[&nbsp;<a href="pub_bib.html#DBLP:journals/iotj/0001SBWBYW14">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/JIOT.2014.2302534">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/JIOT.2014.2302534">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/icc/SongWWY14">22</a>]
+</td>
+<td class="bibtexitem">
+<b>L. Song</b>, S.&nbsp;Wu, H.&nbsp;Wang, and Q.&nbsp;Yang, &ldquo;Distributed mapreduce engine
+  with fault tolerance,&rdquo; in <em>IEEE International Conference on
+  Communications, ICC 2014, Sydney, Australia, June 10-14, 2014</em>,
+  pp.&nbsp;3626-3630, 2014.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/icc/SongWWY14">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICC.2014.6883884">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICC.2014.6883884">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="song2014adaptive">23</a>]
+</td>
+<td class="bibtexitem">
+<b>Lixing Song</b>, &ldquo;Adaptive wireless rate control driven by highly
+  fine-grained channel assessment,&rdquo; m.s. thesis, Ball State University,
+  Muncie, IN, USA, 2014.
+[&nbsp;<a href="pub_bib.html#song2014adaptive">bib</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/icccn/SongW14">24</a>]
+</td>
+<td class="bibtexitem">
+<b>L. Song</b> and S.&nbsp;Wu, &ldquo;Cross-layer wireless information security,&rdquo; in
+  <em>23rd International Conference on Computer Communication and Networks,
+  ICCCN 2014, Shanghai, China, August 4-7, 2014</em>, pp.&nbsp;1-9, 2014.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/icccn/SongW14">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICCCN.2014.6911744">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/ICCCN.2014.6911744">http</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="DBLP:conf/globecom/ZhuTSYW12">25</a>]
+</td>
+<td class="bibtexitem">
+Y.&nbsp;Zhu, C.&nbsp;Tang, <b>L. Song</b>, Q.&nbsp;Yao, and S.&nbsp;Wu, &ldquo;Cooperative binary
+  relaying and combining for multi-hop wireless communication,&rdquo; in <em>2012
+  IEEE Global Communications Conference, GLOBECOM 2012, Anaheim, CA, USA,
+  December 3-7, 2012</em>, pp.&nbsp;4205-4210, 2012.
+[&nbsp;<a href="pub_bib.html#DBLP:conf/globecom/ZhuTSYW12">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/GLOCOM.2012.6503777">DOI</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/GLOCOM.2012.6503777">http</a>&nbsp;]
+
+</td>
+</tr>
+</table><hr><p><em>This file was generated by
