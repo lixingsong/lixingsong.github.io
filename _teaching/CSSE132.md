@@ -1,7 +1,7 @@
 ---
 title: "CSSE132 - Introduction to Computer System"
 collection: teaching
-type: "2018Fall/Spring, 2019Fall"
+type: "2018Fall/Spring, 2019Fall/Spring"
 permalink: /teaching/CSSE132
 venue: "RHIT, CSSE"
 date: 2018-8-30
