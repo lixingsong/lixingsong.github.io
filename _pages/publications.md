@@ -21,12 +21,6 @@ In <cite>54th IEEE International Conference on Communications (ICC 2020),
   Dublin, Ireland, 7-11 June 2020</cite>, pages 1&#x2013;7, 2020.
 To Appear.</li>
 
-<!-- Authors: Aaron Striegel and Lixing Song -->
-<li><a name="striegel2019systems"></a>Aaron Striegel and <strong>Lixing
-  Song</strong>.
-Systems and methods for rapidly estimating available bandwidth in a wifi link,
-  08 2019.</li>
-
 <!-- Authors: Lixing Song -->
 <li><a name="song_phd"></a><strong>Lixing
   Song</strong>.
@@ -96,12 +90,6 @@ In <cite>Proceedings of the 22nd Annual International Conference on Mobile
   2016</cite>, pages 499&#x2013;500. 2016.
 (<a href="http://dx.doi.org/10.1145/2973750.2985619">doi:10.1145/2973750.2985619</a>)</li>
 
-<!-- Authors: Lixing Song and Aaron Striegel -->
-<li><a name="pending_patent"></a><strong>Lixing Song</strong> and Aaron
-  Striegel.
-Novel technique for client-side passive detection of wifi access point load,
-  2016.</li>
-
 <!-- Authors: Lixing Song and Shaoen Wu and Honggang Wang -->
 <li><a name="DBLP:journals/iotj/SongWW16"></a><strong>Lixing Song</strong>, Shaoen Wu, and
   Honggang Wang.
@@ -123,12 +111,6 @@ In <cite>Proceedings of the 2016 ACM International Symposium on Wearable
   Computers, ISWC 2016, Heidelberg, Germany, September 12-16, 2016</cite>,
   pages 28&#x2013;35, 2016.
 (<a href="http://dx.doi.org/10.1145/2971763.2971767">doi:10.1145/2971763.2971767</a>)</li>
-
-<!-- Authors: Aaron Striegel and Lixing Song -->
-<li><a name="patent:fmnc"></a>Aaron Striegel and <strong>Lixing
-  Song</strong>.
-Rapid end-to-end path characterization involving wireless network hops, 06
-  2016.</li>
 
 <!-- Authors: Xueheng Hu and Lixing Song and Dirk Van Bruggen and Aaron
   Striegel -->
@@ -172,7 +154,7 @@ In <cite>2015 IEEE International Conference on Communications, ICC 2015,
 <li><a name="song2014adaptive"></a><strong>Lixing Song</strong>.
 Adaptive wireless rate control driven by highly fine-grained channel
   assessment.
-M.s. thesis, Ball State University, Muncie, IN, USA, 2014.</li>
+M.S. Thesis, Ball State University, Muncie, IN, USA, 2014.</li>
 
 <!-- Authors: Lixing Song and Shaoen Wu -->
 <li><a name="DBLP:conf/icccn/SongW14"></a><strong>Lixing Song</strong> and Shaoen Wu.
