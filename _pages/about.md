@@ -15,3 +15,5 @@ My research interests broadly focus on wireless networking and mobile computing,
 
 I also participate in smartphone-driven interdisciplinary research that aims at exploring network effects from a sociological perspective, e.g., [NetSense](http://netsense.nd.edu/about.html) and [NetHealth](http://http://nethealth.nd.edu/)  project. 
 
+In addition to wireless networking, I'm also interested in exploring machine learning applications in robotics, e.g., model-based reinforcement learning, data-driven control and so on.
+
