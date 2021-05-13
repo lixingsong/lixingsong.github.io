@@ -39,15 +39,6 @@ In <cite>2020 IEEE International Conference on Communications, ICC 2020,
   Dublin, Ireland, June 7-11, 2020</cite>, pages 1&ndash;7. IEEE, 2020.
 (<a href="http://dx.doi.org/10.1109/ICC40277.2020.9148619">doi:10.1109/ICC40277.2020.9148619</a>)</li>
 
-<!-- Authors: Lixing Song and Alamin Mohammed and Aaron Striegel -->
-<li><a name="DBLP:conf/icc/SongS2020"></a><strong>Lixing Song</strong>, Alamin
-  Mohammed, and Aaron Striegel.
-A passive client side control packet-based wifi traffic characterization
-  mechanism.
-In <cite>54th IEEE International Conference on Communications (ICC 2020),
-  Dublin, Ireland, 7-11 June 2020</cite>, pages 1&ndash;7, 2020.
-To Appear.</li>
-
 <!-- Authors: Lixing Song -->
 <li><a name="song_phd"></a><strong>Lixing
   Song</strong>.
