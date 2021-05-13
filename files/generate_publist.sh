@@ -13,4 +13,4 @@ BIBFILE=$2
 
 CUR_PATH=`pwd`
 sed 's/\\textbf//g' $BIBFILE|sed 's/L\. Song/Lixing Song/g' > $BIB2XHTML_PATH/pub.bib
-(cd $BIB2XHTML_PATH;./bib2xhtml.pl -n "Lixing Song" -s empty -r -c ./pub.bib $CUR_PATH/output.html;rm ./pub.bib)
+(cd $BIB2XHTML_PATH;./bib2xhtml -n "Lixing Song" -s empty -r -c ./pub.bib $CUR_PATH/output.html;rm ./pub.bib)
