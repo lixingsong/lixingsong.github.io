@@ -11,4 +11,4 @@ I am currently an Assistant Professor at Computer Science and Software Engineeri
 
 Research Interest
 ------
-My current research interests include autonomous driving, reinforcement learning, and robotics. I'm also generally interested in exploring machine learning solutions to real-world problems. Previously, I gained extensive research experience in the areas of wireless networking and mobile computing.
+My current research interests include autonomous driving, reinforcement learning, and robotics. I'm also generally interested in exploring machine learning solutions for real-world problems. Previously, I gained extensive research experience in the areas of wireless networking and mobile computing.
