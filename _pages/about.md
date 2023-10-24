@@ -11,9 +11,4 @@ I am currently an Assistant Professor at Computer Science and Software Engineeri
 
 Research Interest
 ------
-My research interests broadly focus on wireless networking and mobile computing, including WiFi/Cellular performance improvement, network measurement, and security applications. My research experience traverses multiple network layers, from the software-defined radio (SDR) at the PHY layer to packet permutation at the Transport layer.
-
-I also participate in smartphone-driven interdisciplinary research that aims at exploring network effects from a sociological perspective, e.g., [NetSense](http://netsense.nd.edu/about.html) and [NetHealth](http://http://nethealth.nd.edu/)  project. 
-
-In addition to wireless networking, I'm also interested in exploring machine learning applications in robotics, e.g., model-based reinforcement learning, data-driven control and so on.
-
+My current research interests include autonomous driving, reinforcement learning, and robotics. I'm also generally interested in exploring machine learning solutions to real-world problems. Previously, I gained extensive research experience in the areas of wireless networking and mobile computing.
