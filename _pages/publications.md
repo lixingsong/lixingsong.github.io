@@ -10,17 +10,17 @@ author_profile: true
 
 <ul class="bib2xhtml">
 
-<!-- Authors: textbfLixing Song and Valentine William and Yang Qing and Wang
-  Honggang and Fang Hua and Liu Ye -->
+<!-- Authors: textbfLixing Song and William Valentine and Qing Yang and
+  Honggang Wang and Hua Fang and Ye Liu -->
 <li><a name="icdcs2024_ls"></a><strong>Lixing Song</strong>, William
   Valentine, Qing Yang, Honggang Wang,
   Hua Fang, and Ye&nbsp;Liu.
-<a href="https://doi.ieeecomputersociety.org/10.1109/ICDCS60910.2024.00098">BB-Align:
-  A lightweight pose recovery framework for vehicle-to-vehicle cooperative
+<a href="https://doi.org/10.1109/ICDCS60910.2024.00098">BB-Align: A
+  lightweight pose recovery framework for vehicle-to-vehicle cooperative
   perception</a>.
-In <cite>2024 IEEE 44th International Conference on Distributed Computing
-  Systems (ICDCS)</cite>, pages 1016&#x2013;1026, Los Alamitos, CA, USA, Jul 2024.
-  IEEE Computer Society.
+In <cite>44th IEEE International Conference on Distributed Computing Systems,
+  ICDCS 2024, Jersey City, NJ, USA, July 23-26, 2024</cite>, pages
+  1016&#x2013;1026. IEEE, 2024.
 (<a href="http://dx.doi.org/10.1109/ICDCS60910.2024.00098">doi:10.1109/ICDCS60910.2024.00098</a>)</li>
 
 <!-- Authors: Lixing Song and Luke Ferderer and Shaoen Wu -->
