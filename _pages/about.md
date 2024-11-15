@@ -11,4 +11,4 @@ I am currently an Associate Professor at the Department of Computer Science and 
 
 Research Interests
 ------
-My current research centers around autonomous vehicles, reinforcement learning, and foundation model applications. I'm also enthusiastic about applying machine learning methodologies to multidisciplinary research. Prior to joining Rose-Hulman, my research portfolio included extensive work extensive work in wireless networking and mobile computing, with a particular emphasis on WiFi/LTE network bandwidth measurement and PHY/MAC cross-layer designs.
+My current research centers around autonomous vehicles, reinforcement learning, and foundation model applications. I'm also enthusiastic about applying machine learning methodologies to multidisciplinary research. Prior to joining Rose-Hulman, my research portfolio included extensive work in wireless networking and mobile computing, with a particular emphasis on WiFi/LTE network bandwidth measurement and PHY/MAC cross-layer designs.
