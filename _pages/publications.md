@@ -10,6 +10,19 @@ author_profile: true
 
 <ul class="bib2xhtml">
 
+<!-- Authors: textbfLixing Song and Valentine William and Yang Qing and Wang
+  Honggang and Fang Hua and Liu Ye -->
+<li><a name="icdcs2024_ls"></a><strong>Lixing Song</strong>, William
+  Valentine, Qing Yang, Honggang Wang,
+  Hua Fang, and Ye&nbsp;Liu.
+<a href="https://doi.ieeecomputersociety.org/10.1109/ICDCS60910.2024.00098">Bb-align:
+  A lightweight pose recovery framework for vehicle-to-vehicle cooperative
+  perception</a>.
+In <cite>2024 IEEE 44th International Conference on Distributed Computing
+  Systems (ICDCS)</cite>, pages 1016&#x2013;1026, Los Alamitos, CA, USA, Jul 2024.
+  IEEE Computer Society.
+(<a href="http://dx.doi.org/10.1109/ICDCS60910.2024.00098">doi:10.1109/ICDCS60910.2024.00098</a>)</li>
+
 <!-- Authors: Lixing Song and Luke Ferderer and Shaoen Wu -->
 <li><a name="icmla2022_ls"></a><strong>Lixing Song</strong>, Luke Ferderer,
   and Shaoen Wu.
